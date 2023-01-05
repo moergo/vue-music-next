@@ -1,0 +1,13 @@
+# 忽略目录
+build/
+tests/
+node_modules/
+src/
+backend/
+
+# 忽略文件
+**/*-min.js
+**/*.min.js
+
+iconfont.js
+vue.config.js
